@@ -1,0 +1,19 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>This isa test</title>
+
+<body>
+
+<h1><center>Welcome to my project website</center></h1>
+<a href="home.html">Home</a>
+<a href="document.html">Document</a>
+<a href="aboutme.html">About Me</a>
+
+
+
+
+</body>
+
+</head> 
